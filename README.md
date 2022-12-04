@@ -1,4 +1,4 @@
-# Created according to instructions YT Kevin Powell.
+# _Created according to instructions YT Kevin Powell._
 
 # Frontend Mentor - Product preview card component solution
 
@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://tomasdunik.github.io/product-preview-card-component-main/]
+- Solution URL: https://tomasdunik.github.io/product-preview-card-component-main/
 <!-- - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
 
 ## My process
@@ -46,5 +46,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [https://www.kodovac.s](https://www.your-site.com)
-- Frontend Mentor - [@WeekendsProgrammer](https://www.frontendmentor.io/profile/yourusername)
+- Website - [https://www.kodovac.sk]
+- Frontend Mentor - [https://www.frontendmentor.io/profile/yourusername]
