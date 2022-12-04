@@ -47,4 +47,4 @@ Users should be able to:
 ## Author
 
 - Website - https://www.kodovac.sk
-- Frontend Mentor - https://www.frontendmentor.io/profile/yourusername
+- Frontend Mentor - https://www.frontendmentor.io/profile/WeekendsProgrammer
