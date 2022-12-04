@@ -1,4 +1,4 @@
-# ----- Created according to instructions YT Kevin Powell. -----
+# Created according to instructions YT Kevin Powell.
 
 # Frontend Mentor - Product preview card component solution
 
@@ -15,8 +15,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -32,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://tomasdunik.github.io/product-preview-card-component-main/)
+- Solution URL: [https://tomasdunik.github.io/product-preview-card-component-main/]
 <!-- - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
 
 ## My process
@@ -44,9 +42,9 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/watch?v=B2WL6KkqhLQ&ab_channel=KevinPowell) - This video helped me with website.
+- [YouTube](https://www.youtube.com/watch?v=B2WL6KkqhLQ&ab_channel=KevinPowell) - This video helped me with website.
 
 ## Author
 
-- Website - [Add your name here](https://www.kodovac.sk)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/WeekendsProgrammer)
+- Website - [https://www.kodovac.s](https://www.your-site.com)
+- Frontend Mentor - [@WeekendsProgrammer](https://www.frontendmentor.io/profile/yourusername)
