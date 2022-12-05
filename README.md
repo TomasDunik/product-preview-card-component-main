@@ -31,7 +31,6 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://tomasdunik.github.io/product-preview-card-component-main/
-<!-- - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
 
 ## My process
 
